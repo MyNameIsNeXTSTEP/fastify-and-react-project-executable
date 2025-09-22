@@ -7,4 +7,4 @@ What needs to be done generally:
   - `some-cli server:add route --ws / --http`
   - `some-cli db:add table` etc.
 
--> Put more effort first to cerating issues and providing refferences & samples
+**Project example** - https://github.com/MyNameIsNeXTSTEP/fastify-and-react-project-template
