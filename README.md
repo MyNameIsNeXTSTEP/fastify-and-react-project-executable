@@ -1,4 +1,4 @@
-# Fastify &amp; ReactJS project template
+# Fastify &amp; ReactJS monorepo project template
 
 What needs to be done generally:
 - Create an executable package for creating the app with `npx` like: `npx create-fastify-and-react-project`
